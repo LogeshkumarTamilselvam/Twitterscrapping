@@ -1,6 +1,6 @@
 # Twitter Scrapping
 
-Linkedin - https://www.linkedin.com/in/logeshkumar-tamilselvam-7258aa269/
+Linkedin - [https://www.linkedin.com/in/logeshkumar-tamilselvam-7258aa269/](https://www.linkedin.com/posts/logeshkumar-tamilselvam-7258aa269_datavisualization-python-mongodb-activity-7055001788290125824-dIJv?utm_source=share&utm_medium=member_desktop)
 
 Scrape Twitter and scrape data such from public Twitter profiles. Collect data on URLs, hashtags, images, videos, tweets, retweets, conversation threads, followers/following, locations, and more
 
